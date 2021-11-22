@@ -50,7 +50,9 @@ This graph explain that success vs fail rate per project band:
 
 ### Challenges and Difficulties Encountered
 
-## Results
+The main challenge was the lack of enough and updated information to an adequate analysis of which is the most convenient size of a fundrising proyect to be sucessful. 
+
+### Results
 
 We have been requested to analyze and make conclusions about the best month to launch the fundraising of the project and the adequate size of it to be successful.
 
